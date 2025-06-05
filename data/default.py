@@ -1,0 +1,14 @@
+pacs_domain_list = ['p', 'a', 'c', 's']
+domainNet_domain_list = ['c', 'i', 'p', 'q', 'r', 's']
+officehome_domain_list = ['a', 'c', 'p', 'r']
+terra_incognita_list = ['100', '38', '43', '46']
+celeba = ['blk', 'brn', 'gry', 'bln']
+vlcs_domain_list = ['c','l','s','v']
+log_path = ''
+pacs_path = '../data/'
+prefix_path = 'generations/test'
+officehome_path = '../data/'
+terrainc_path = ''
+domainNet_path = ''
+log_count_path=''
+vlcs_path = '../data/'
